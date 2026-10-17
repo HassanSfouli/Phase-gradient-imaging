@@ -1,2 +1,2 @@
 # Phase-gradient-imaging
-Imaging transparent biological samples without any labeling
+Comparative numerical study of phase reconstruction algorithms for phase imaging in epi-direction
